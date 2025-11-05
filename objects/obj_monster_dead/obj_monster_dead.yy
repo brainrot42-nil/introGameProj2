@@ -27,7 +27,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"variable_name","filters":[
+    {"$GMObjectProperty":"v2","%Name":"variable_name","filters":[
         "GMTileSet",
         "GMSprite",
         "GMSound",
